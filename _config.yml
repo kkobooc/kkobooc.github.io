@@ -16,21 +16,21 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "kkobooc's tech blog"
+title                    : "데이터를 남기는 데이터 개발자"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "kkobooc"
-description              : "kkobooc's tech blog"
+description              : "공부해놓고 맨날 까먹어서 올리는 블로그"
 url                      : "https://kkobooc.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "kkobooc/kkobooc"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : # "/assets/images/kkobooc.png"
+logo                     : "/assets/images/basket.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -95,8 +95,8 @@ analytics:
 # Site Author
 author:
   name             : "kkobooc"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "kkobooc의 데이터/개발 정리노트"
+  avatar           : "/assets/images/kkobooc.png"
+  bio              : "공부해놓고 맨날 까먹어서 올리는 블로그"
   location         : "Seoul, Korea"
   email            :
   links:
@@ -130,7 +130,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/kkobooc"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
