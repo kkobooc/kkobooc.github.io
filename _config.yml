@@ -27,6 +27,7 @@ repository               : "kkobooc/kkobooc"
 teaser                   : "/assets/images/kkobooc.png"
 logo                     : "/assets/images/basket.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+future                   : true
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
