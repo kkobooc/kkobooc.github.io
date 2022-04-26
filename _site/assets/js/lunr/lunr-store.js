@@ -1,6 +1,6 @@
 var store = [{
         "title": "첫 테스트 게시물",
-        "excerpt":"Github Pages를 이용해 첫 블로그 생성!   이 글의 제목은 첫 테스트 게시물이고   마지막으로 수정된 시간은 2021-06-25이다.  ","categories": ["Blog"],
+        "excerpt":"첫 게시물  성훈님 ! 저희 열심히 공부해요   빨리 블로그 만드세요   이제 진짜 금주하자 ㅜㅜ   ","categories": ["Blog"],
         "tags": ["Blog"],
         "url": "/blog/test/",
         "teaser": "/assets/images/kkobooc.png"
